@@ -1,3 +1,4 @@
+fang's commit
 for file in NENE*.txt
 do
 echo $file
